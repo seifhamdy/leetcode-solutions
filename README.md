@@ -1,4 +1,4 @@
-# My leetcode solutions
+# My Leetcode solutions
 
 ## About this repo
 
